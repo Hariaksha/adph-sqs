@@ -1,0 +1,31 @@
+.variable {
+    padding: 70px;
+    border: solid black 3px;
+    border-radius: 15px;
+    margin: 5px 10px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+    margin-top: 0;
+}
+
+body {
+    background: linear-gradient(skyblue, white);
+    text-align: center;
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.wrapper {
+    display: flex;
+    margin: 5px auto 30px auto;
+    width: 100px;
+    justify-content: center;
+}
+
+#header {
+    padding: 20px 60px;
+    margin-top: 20px;
+}
