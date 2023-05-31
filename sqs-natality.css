@@ -22,11 +22,10 @@ button {
 
 .category {
     color: black;
-    /* text-shadow: 2px 2px 3px black; */
-    /* background-color: whitesmoke; */
     text-align: center;
     margin: 0 auto 20px auto;
     width: 200px;
+    text-shadow: whitesmoke 2px 2px 4px;
     font-size: 20px;
     text-decoration: underline;
 }
