@@ -16,6 +16,10 @@ button {
     border: solid gray 1px;
 }
 
+.buttons {
+    margin: 0 20px;
+}
+
 .category {
     color: black;
     /* text-shadow: 2px 2px 3px black; */
