@@ -24,8 +24,8 @@ button {
     color: black;
     /* text-shadow: 2px 2px 3px black; */
     /* background-color: whitesmoke; */
-    text-align: left;
-    margin: 0 auto 20px 10px;
+    text-align: center;
+    margin: 0 auto 20px auto;
     width: 200px;
     font-size: 20px;
     text-decoration: underline;
