@@ -20,7 +20,7 @@ body {
     background: linear-gradient(skyblue, white);
     text-align: center;
     margin: 0;
-    font-family: 'Arial Narrow Bold', sans-serif;
+    font-family: 'Arial Narrow Bold';
 }
 
 .wrapper {
