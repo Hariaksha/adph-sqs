@@ -8,6 +8,7 @@
     background-color: rgb(109, 178, 205);
     text-shadow: black 2px 2px 4px;
     font-size: 20px;
+    min-width: 71px;
 }
 
 h1 {
