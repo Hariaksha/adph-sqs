@@ -11,6 +11,10 @@
     min-width: 71px;
 }
 
+.variable:hover {
+    background-image: linear-gradient(rgb(0 0 0/30%) 0 0);
+}
+
 h1 {
     font-size: 45px;
     margin-top: 0;
