@@ -10,6 +10,7 @@
     font-size: 20px;
     min-width: 71px;
     min-height: 35px;
+    vertical-align: middle;
 }
 
 .variable:hover {
