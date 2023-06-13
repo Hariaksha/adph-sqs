@@ -35,6 +35,10 @@ button:hover {
     border: solid black 1px;
 }
 
+.year-selector:hover {
+    background-image: linear-gradient(rgb(0 0 0/30%) 0 0);
+}
+
 .variable-selector {
     padding: 5px 10px;
     background-color: rgb(52, 227, 116);
@@ -42,6 +46,10 @@ button:hover {
     margin: 100px 25px;  
     border: solid black 1px;
     border-radius: 5px;
+}
+
+.variable-selector:hover {
+    background-image: linear-gradient(rgb(0 0 0/30%) 0 0);
 }
 
 .buttons:hover {
