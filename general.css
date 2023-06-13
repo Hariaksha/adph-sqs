@@ -30,7 +30,7 @@ button:hover {
     padding: 5px 10px;
     background-color: rgb(227, 166, 52);
     display: inline;
-    margin: 100px 25px;
+    margin: 5px 25px;  
     border: solid black 1px;
     border-radius: 7px;
     color: black;
