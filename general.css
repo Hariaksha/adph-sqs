@@ -33,6 +33,9 @@ button:hover {
     margin: 100px 25px;
     border: solid black 1px;
     border-radius: 7px;
+    color: black;
+    text-shadow: none;
+    font-size: medium;
 }
 
 .year-selector:hover {
@@ -46,6 +49,9 @@ button:hover {
     margin: 100px 25px;  
     border: solid black 1px;
     border-radius: 5px;
+    color: black;
+    text-shadow: none;
+    font-size: medium;
 }
 
 .variable-selector:hover {
