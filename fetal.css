@@ -24,6 +24,10 @@ button {
     margin: 0 20px;
 }
 
+.buttons:hover {
+    background-image: linear-gradient(rgb(0 0 0/30%) 0 0);
+}
+
 .category {
     color: black;
     text-align: center;
