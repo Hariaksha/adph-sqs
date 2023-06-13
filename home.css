@@ -9,6 +9,7 @@
     text-shadow: black 2px 2px 4px;
     font-size: 20px;
     min-width: 71px;
+    min-height: 35px;
 }
 
 .variable:hover {
