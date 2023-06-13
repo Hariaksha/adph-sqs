@@ -1,6 +1,86 @@
-<label for="row-var">Choose one variable</label>
-<select name="row-var" id="row-var">
-    <option>Race</option>
-    <option>Marriage</option>
-    <option>Prenatal</option>
-</select>
+<!DOCTYPE html>
+<html>
+    <head><link rel="stylesheet" href="itop.css"/></head>
+    <body>
+        <div class="header">
+            <a href="https://www.alabamapublichealth.gov" target="_blank"><img src="adph-logo.png"></a>
+            <p>
+                <a href="https://www.alabamapublichealth.gov/vitalrecords/" target="_blank">Vital Records</a> | 
+                <a href="https://www.alabamapublichealth.gov/healthstats/index.html" target="_blank">Health Statistics</a> | 
+                <a href="https://www.alabamapublichealth.gov/healthstats/statistical-summaries.html" target="_blank">Statistical Summaries</a> | 
+                <a href="https://www.alabamapublichealth.gov/healthstats/publications.html" target="_blank">Publications</a>
+            </p>
+            <p>
+                <a href="https://www.alabamapublichealth.gov/healthstats/prams.html" target="_blank">PRAMS</a> | 
+                <a href="https://www.alabamapublichealth.gov/healthstats/demographics.html" target="_blank">Demographics</a> | 
+                <a href="https://www.alabamapublichealth.gov/healthstats/links.html" target="_blank">Related</a>
+            </p>
+        </div>
+        <h1>Induced Terminations of Pregnancy (ITOP)</h1>
+
+        <div class="instructions">
+            <p>The ITOP Statistical Query System provides a means to create tables showing frequencies of ITOPs 
+                of Alabama residents based on your selections. Select years and variables to restrict which data to 
+                include in the query.
+            </p>
+            <p>Please note that results will be frequency totals, and no identifying information such as name, address, 
+                or date of birth will be provided.
+            </p>  
+        </div>      
+
+        <div class="wrapper">
+            <h4 class="category">Year(s)</h4>
+        </div>
+        <div class="divider">
+            <button class="year-selector">2010</button>
+            <p class="year-selector">2011</p>
+            <p class="year-selector">2012</p>
+            <p class="year-selector">2013</p>
+            <p class="year-selector">2014</p>
+            <p class="year-selector">2015</p>
+        </div>
+        <div class="divider">
+            <p class="year-selector">2016</p>
+            <p class="year-selector">2017</p>
+            <p class="year-selector">2018</p>
+            <p class="year-selector">2019</p>
+            <p class="year-selector">2020</p>
+            <p class="year-selector">2021</p>
+        </div>
+        <div class="divider">
+            <p class="year-selector">Last 5 Years</p>
+            <p class="year-selector">Last 10 Years</p>
+        </div>        
+
+        <div class="wrapper">
+            <h4 class="category">Variables -- Group 1</h4>
+        </div>
+        <div class="divider">
+            <p class="variable-selector">Race</p>
+            <p class="variable-selector">Gestation</p>
+            <p class="variable-selector">Age Group</p>
+            <p class="variable-selector">Month</p>
+            <p class="variable-selector">Ethnicity</p>
+            <p class="variable-selector">Married</p>
+        </div>
+
+        <div class="wrapper">
+            <h4 class="category">Variables -- Group 2</h4>
+        </div>
+
+        <div class="divider">
+            <p class="variable-selector">Race</p>
+            <p class="variable-selector">Gestation</p>
+            <p class="variable-selector">Age Group</p>
+            <p class="variable-selector">Month</p>
+            <p class="variable-selector">Ethnicity</p>
+            <p class="variable-selector">Married</p>
+        </div>
+        
+        <div>
+            <a href="https://www.alabamapublichealth.gov/" target="_blank"><button class="buttons">Submit</button></a>
+            <a href="https://adph-sqs.netlify.app/itop.html"><button class="buttons">Reset</button></a>
+            <a href="https://adph-sqs.netlify.app/home.html"><button class="buttons">Return to SQS</button></a>
+        </div>
+    </body>
+</html>
