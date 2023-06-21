@@ -13,7 +13,7 @@ body {
 
 button {
     border-radius: 10px;
-    border: solid gray 2px;
+    border: solid gray 3px;
     color: whitesmoke;
     background-color: rgb(127, 180, 255);
     text-shadow: black 2px 2px 3px;
